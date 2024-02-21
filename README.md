@@ -4,13 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is the starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I'm excited to learn Flutter, and this is my first app! Currently, I'm taking a course on Udemy to dive into this exciting technology.
+
+To help you get started with Flutter development, check out the following resources:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help with Flutter development, refer to the [online documentation](https://docs.flutter.dev/), which provides tutorials, examples, guidance on mobile development, and a full API reference.
